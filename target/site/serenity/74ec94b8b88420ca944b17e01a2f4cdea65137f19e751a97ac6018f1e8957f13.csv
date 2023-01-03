@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CURD test with steps","This will create a new User","SUCCESS","2023-01-01T19:28:41.911Z[Europe/London]","0.0","2.76"
+"User CURD test with steps","This will Fetch user by ID","SUCCESS","2023-01-01T19:28:44.687Z[Europe/London]","0.0","0.77"
+"User CURD test with steps","This will Fetch user by ID","SUCCESS","2023-01-01T19:28:45.462Z[Europe/London]","0.0","0.76"
+"User CURD test with steps","This will Delete user by ID","SUCCESS","2023-01-01T19:28:46.226Z[Europe/London]","0.0","1.52"
